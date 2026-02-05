@@ -54,3 +54,7 @@ Required CSV files to place in `data/` folder:
 ## Tech Stack
 
 Python, Pandas, NumPy, Matplotlib, Seaborn, Tableau
+
+## GitHub Repository
+
+**Source Code:** [https://github.com/isacmj7/traffic-accidents-analysis](https://github.com/isacmj7/traffic-accidents-analysis)
